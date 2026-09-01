@@ -1,6 +1,6 @@
 # CLImusic
 
-An interactive in terminal audio player. SUpport file or directory opening.
+An interactive in terminal audio player. Support file or directory opening.
 
 ## Features
 
